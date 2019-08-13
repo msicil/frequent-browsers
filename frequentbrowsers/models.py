@@ -38,7 +38,7 @@ class Visits(models.Model):
 
 
 class FrequentBrowsers(models.Model):
-    person = models.OneToOneField(
+    people = models.OneToOneField(
         People, models.CASCADE, db_column='person_id', primary_key=True, blank=False, null=False)
     num_sites_visited = models.IntegerField()
 
