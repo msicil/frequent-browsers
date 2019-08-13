@@ -1,4 +1,4 @@
-#!/Users/michaelsiciliano/Desktop/Projects/sitevisits/venv/bin/python3
+#!/Users/michaelsiciliano/Desktop/Projects/frequent-browsers/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
